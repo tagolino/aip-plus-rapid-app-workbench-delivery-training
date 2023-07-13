@@ -14,6 +14,9 @@ TODO
 - #### Courses
   - ##### AIP+ Onboarding Deck
     - This course is an overview of AIP+ processes, access requests, training, and helpful tips.
+    - AIP means Applied Intelligence Platform +
+    - Key KPI is "Speed to insight"
+    - Mission: To curate the IP (Intelligence Platform?) of our partners and make that IP consumable
   - ##### Introduction to AIP+
     - This training will provide a high-level overview of the AIP+ Execution Engine and AIP+ Rapid Application Workbench, including basic fundamentals and key benefits of AIP+.
   - ##### AIP+ Technical Architecture
