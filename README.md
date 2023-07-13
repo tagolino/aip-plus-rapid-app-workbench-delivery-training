@@ -1,13 +1,9 @@
-# AIP+ Introductory Training
+# AIP+ Introductory Training <!-- omit from toc -->
 
-## Resource reference
+## Resource reference <!-- omit from toc -->
 TODO
 
-## Table of Contents
-
-- [AIP+ Introductory Training](#aip-introductory-training)
-  - [Resource reference](#resource-reference)
-  - [Table of Contents](#table-of-contents)
+## Table of Contents <!-- omit from toc -->
 - [General Training](#general-training)
 - [Rapid Application Workbench Delivery](#rapid-application-workbench-delivery)
 
