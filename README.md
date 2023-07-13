@@ -19,6 +19,10 @@ TODO
     - Mission: To curate the IP (Intelligence Platform?) of our partners and make that IP consumable
   - ##### Introduction to AIP+
     - This training will provide a high-level overview of the AIP+ Execution Engine and AIP+ Rapid Application Workbench, including basic fundamentals and key benefits of AIP+.
+    - GDPR: General Data Protection Regulation
+    - CDP: Client/Customer Data Protection
+    - What is AIP+ Rapid Application Workbench? AIP+ Rapid Application Workbench is our accelerator to rapidly develop industry relevant applications to deliver outcomes. It is an application development environment with page definition framework that makes it easy to create applications around predictive and forecasting analytical models.
+    - Why AIP+ Rapid Application Workbench? The AIP+ Rapid Application Workbench reduces development complexity and speeds up time-to-market by re-using pre-built code-fragments, graphical widgets, data and analytic models for common business scenarios. AIP+ Rapid Application Workbench delivers more than 50 pre-built applications for various industries and domains and draws on Accenture's industry expertise and vertical solutions.
   - ##### AIP+ Technical Architecture
     - This course is an overview of AIP+ Technical Architecture.
   - ##### AIP+ Support
