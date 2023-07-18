@@ -33,6 +33,13 @@ TODO
     - This course is an overview of AIP+ Security, HITRUST, FedRAMP, and other AIP+ certifications.
   - ##### Data Management in AIP+ Rapid Application Workbench
     - This self-study AIP+ Rapid Application Workbench course will introduce the data management capabilities of AIP+ Rapid Application Workbench. Through presentations, video demonstrations and hands-on exercises using the Rapid Application Workbench platform, course participants will learn the necessary skills to map the data model based on business requirements and configure the data model within the AIP+ Rapid Application Workbench framework.
+    - Entities
+      - Like tables, models, business objects etc.,
+    - Relations
+      - Connections
+      - Cardinality
+    - Attributes
+      - Fields
   - ##### App Design & Development in AIP+ Rapid Application Workbench Editor
     - This 8.5 hour self-study course will bring you up to speed on AIP+ Rapid Application Workbench’s basic functionality and configuration options.
   - ##### Code Development in AIP+ Rapid Application Workbench Editor
