@@ -40,12 +40,38 @@ TODO
       - Cardinality
     - Attributes
       - Fields
-    - Configuration files
-      - 2 options for exporting/downloading configuration files
-        1. Configuration templates
-            - Blank importer templates
-        2. Current configuration
-            - Pre populated with current configs
+    - Modules:
+        1. Case Study Introduction
+            - Telco International
+        2. Data Model Configuration
+            - Configuration files
+            - 2 options for exporting/downloading configuration files
+              1. Configuration templates
+                  - Blank importer templates
+              2. Current configuration
+                  - Pre populated with current configs
+        3. Instance Data Management
+            - Loading of data
+            - 2 steps to load data:
+                1. Loading main entity instance data
+                2. Loading relation entity instance data to establish relations between main entity instances.
+        4. Key points:
+            - Once the ACN team has determined the client's needs and mapped the data model, the team will begin creating an app by configuring the data moedl in Tapod Application Workbench.
+            - To configure the data model, developers first create entities, of which there are three types:
+                1. Main
+                2. Component
+                3. Relation
+            - Main entities, which are created first, represent business objects (real or abstract) involved in a business process.
+            - Entities establish the framework for a business process. Later, the creation of instances will allow users to enter data for analysis.
+            - Relation entities represent the connection or logical link that connects other entities.
+            - When defining a relation entity type, developers will define the source and target entities as well as cardinality.
+            - In order to store data within each entity, developers must create attributes.
+            - Each attribute has a defined set of properties that define how the data for that attribute will be entered, tracked and displayed. These properties can be set using the attributes tab of the EntityType importer template.
+            - Loading instance data brings your app to life by materializing the entities, relations, and attributes that you created when you configured the data model.
+            - You download an instance importer template through the Instance Management activity on an entity page.
+            - Rapid Application Workbench will dynamically generate an importer template that contains field headers for each attribute that you have previously defined for the relevant main entity. You will add instance data by completing this template and importing it back into Rapid Application Workbeanch.
+            - Similarly, the importer template for relation entity instance data is downloaded through the Instance Management activity, which is accessed from the page of the main entity that is the source of the relation.
+            - For each relation instance, you will define an ID, Name, Description, The IDs of the source and target main entity isntances you want to link, and any additional attributes you have defined for the relation entity type.
   - ##### App Design & Development in AIP+ Rapid Application Workbench Editor
     - This 8.5 hour self-study course will bring you up to speed on AIP+ Rapid Application Workbench’s basic functionality and configuration options.
   - ##### Code Development in AIP+ Rapid Application Workbench Editor
