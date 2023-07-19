@@ -40,6 +40,12 @@ TODO
       - Cardinality
     - Attributes
       - Fields
+    - Configuration files
+      - 2 options for exporting/downloading configuration files
+        1. Configuration templates
+            - Blank importer templates
+        2. Current configuration
+            - Pre populated with current configs
   - ##### App Design & Development in AIP+ Rapid Application Workbench Editor
     - This 8.5 hour self-study course will bring you up to speed on AIP+ Rapid Application Workbench’s basic functionality and configuration options.
   - ##### Code Development in AIP+ Rapid Application Workbench Editor
